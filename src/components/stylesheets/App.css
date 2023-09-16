@@ -1,0 +1,23 @@
+/* whole body basic styling */
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.link-tag {
+    text-decoration: none;
+}
+ 
+.right-sidebar {
+    padding: 0;
+    background-image: url(../../images/background-image.jpg);
+    background-size: 100%;
+}
+
+.left-sidebar {
+    background-color: #182B3A;
+}
